@@ -1,0 +1,5 @@
+Port the existing agent from Wargus to StarCraft
+Find out some measurements on the current agent win rate, adaptation rate and it's performance using FPS metric
+Change the current retriever to use decision trees. Some open questions here:
+	What are techniques used to learn a decision tree for a given goal?
+	What are techniques used to pick up representative features that have cheap/less expensive computation
